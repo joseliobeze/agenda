@@ -1,5 +1,6 @@
 *.sqlite3
 *.vscode
-__pychache__
-*.__pychache__
 *.pvc
+*__pychache__
+*.__pychache__
+*.cpython-37.pyc
